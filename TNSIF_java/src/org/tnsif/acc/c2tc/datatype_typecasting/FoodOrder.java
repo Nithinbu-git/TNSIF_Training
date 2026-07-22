@@ -17,7 +17,7 @@ public class FoodOrder {
 		String CustomerName="satish";
 		String[]fooditem= {"Burger","Rice","Coke"};
 		System.out.println("Order summary");
-		System.out.println("Curtomer Name :"+CustomerName);
+		System.out.println("Curtomer Name :"+CustomerName);          
 		System.out.println("Order Id:"+orderId);
         System.out.println("restaurntId"+restaurntId);
         System.out.println("Delivery Boy Contact:"+deliveryBoyPhone);
