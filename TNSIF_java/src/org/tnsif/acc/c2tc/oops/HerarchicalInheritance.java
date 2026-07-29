@@ -13,14 +13,14 @@ class Developer extends Employee
 {
 	void role()
 	{
-		System.out.println("Role : Software Developer");
+		System.out.println("Role : DEVELOPER");
 	}
 }
 class Tester extends Employee
 {
 	void role()
 	{
-		System.out.println("Role : QA Tester");
+		System.out.println("Role :  Tester");
 	}
 }
 
