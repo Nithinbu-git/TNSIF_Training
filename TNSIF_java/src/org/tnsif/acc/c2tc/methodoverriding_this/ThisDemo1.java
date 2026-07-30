@@ -40,6 +40,11 @@ public class ThisDemo1 {
 		person.getName();
 		person.getAge();
 		person.displayDetails();
+		person.setName("ABCCC");
+		person.setAge(32);
+		person.getName();
+		person.getAge();
+		person.displayDetails();
 		
 		
 
