@@ -1,4 +1,4 @@
-package jnr_developer;
+package org.tnsif.acc.c2tc.jnr_developer;
 
 public class KIA_Airbags {
 	

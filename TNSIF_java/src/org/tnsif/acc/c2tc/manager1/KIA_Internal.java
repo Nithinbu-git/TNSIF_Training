@@ -1,9 +1,8 @@
-package sr_developer;
+package org.tnsif.acc.c2tc.manager1;
 
-import jnr_developer.KIA_Airbags;
+import org.tnsif.acc.c2tc.jnr_developer.*;
 
 public class KIA_Internal {
-
 
 	public static void main(String[] args) {
 		KIA_Airbags airbag=new KIA_Airbags();
@@ -11,5 +10,4 @@ public class KIA_Internal {
 		
 
 	}
-
 }
